@@ -13,3 +13,5 @@ You can checkout it with "Version Control for engineers" with SVN-bridge link
 https://github.com/postpdm/VCE_PostPDM_demo
 
 Checkout is read-only, so you can't commit your local changes back to server.
+
+You can change the files local to test the Diff tools.
